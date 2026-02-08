@@ -2,7 +2,7 @@
 
 **PhD Candidate in Economics | University of Virginia**
 
-I study **macroeconomics** with a focus on monetary-fiscal policy interactions, financial repression, and sovereign debt management. Before UVA, I worked at ANZ Banking Group and IDFC First Bank, and hold an M.Phil. from IGIDR, Mumbai.
+I study **macroeconomics** with a focus on monetary-fiscal policy interactions. Before UVA, I worked at ANZ Banking Group and IDFC First Bank, and hold an M.Phil. from IGIDR, Mumbai.
 
 ---
 
