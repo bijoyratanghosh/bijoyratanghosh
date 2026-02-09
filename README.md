@@ -29,18 +29,4 @@ I study **macroeconomics** with a focus on monetary-fiscal policy interactions. 
 `R` `Python` `Julia` `MATLAB` `Stata` `LaTeX` `Dynare`
 
 ---
-
-#### Select Repositories
-
-| Repository | Description |
-|---|---|
-| [empirical-macro-curriculum](https://github.com/bijoyratanghosh/empirical-macro-curriculum) | Full curriculum: 13 modules from panel data to causal ML |
-| [DSGE_mod](https://github.com/bijoyratanghosh/DSGE_mod) | DSGE model implementations |
-| [macroeconometrics](https://github.com/bijoyratanghosh/macroeconometrics) | Macroeconometrics methods and applications |
-| [VAR-Toolbox](https://github.com/bijoyratanghosh/VAR-Toolbox) | Vector autoregression toolbox |
-| [Computational-Macroeconomics](https://github.com/bijoyratanghosh/Computational-Macroeconomics) | Computational methods for macro models |
-| [Financial-Frictions-Course](https://github.com/bijoyratanghosh/Financial-Frictions-Course) | Financial frictions in macroeconomics |
-
----
-
 <sub>vzw5ab@virginia.edu | [bijoyratanghosh.github.io](https://bijoyratanghosh.github.io/)</sub>
